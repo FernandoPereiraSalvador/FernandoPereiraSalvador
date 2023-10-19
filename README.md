@@ -1,5 +1,7 @@
 # ¡Hola! 👋 Soy Fernando
 
+![Texto alternativo](banner.gif)
+
 ## Acerca de mí
 Soy un apasionado desarrollador de aplicaciones multiplataforma con formación previa en SMR (Sistemas Microinformáticos y Redes). Mi pasión por la programación y la innovación tecnológica me ha llevado a explorar y aprender diversas tecnologías y lenguajes de programación.
 
