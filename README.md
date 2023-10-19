@@ -3,10 +3,13 @@
 ## 🧭 About me
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="250" width="325" alt="GIF" src="https://www.benirredra.es/sites/www.benirredra.es/files/Im%C3%A1genes/beques/3.jpg">
+  <a href="https://www.benirredra.es/noticia/lliurament-xiii-premis-millor-expedient-academic-2022">
+    <img align="right" top="500" height="250" width="325" alt="GIF" src="https://www.benirredra.es/sites/www.benirredra.es/files/Im%C3%A1genes/beques/3.jpg">
+  </a>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+
 - Cross-platform application developer 💻📱🎮
 
 - Learning B1 English 🏴󠁧󠁢󠁥󠁮󠁧󠁿​ and A2 of German 🇩🇪
