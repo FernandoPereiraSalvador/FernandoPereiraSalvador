@@ -1,16 +1,23 @@
-# ¡Hola! 👋 Soy Fernando
+![Error al cargar el banner](banner.gif)
 
-![Texto alternativo](banner.gif)
+## 🧭 About me
 
-## Acerca de mí
-Soy un apasionado desarrollador de aplicaciones multiplataforma con formación previa en SMR (Sistemas Microinformáticos y Redes). Mi pasión por la programación y la innovación tecnológica me ha llevado a explorar y aprender diversas tecnologías y lenguajes de programación.
+<a target="_blank" align="center">
+  <img align="right" top="500" height="250" width="325" alt="GIF" src="https://www.benirredra.es/sites/www.benirredra.es/files/Im%C3%A1genes/beques/3.jpg">
+</a>
 
-Siempre estoy emocionado por enfrentar nuevos desafíos y crear soluciones innovadoras para los problemas que encuentro. Me enorgullece trabajar en proyectos que hacen uso de mi experiencia en:
+&nbsp;&nbsp;
+- Cross-platform application developer 💻📱🎮
 
-- Desarrollo de aplicaciones con Python
-- Programación en Java
-- Gestión de bases de datos SQL
-- Creación de sitios web con HTML
+- Learning B1 English 🏴󠁧󠁢󠁥󠁮󠁧󠁿​ and A2 of German 🇩🇪
+
+- Passionate about technology 🤖​❤️‍👨🏻‍💻​
+
+- Learning Tensorflow 🦾​🔥
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Tecnologías
 Estas son algunas de las tecnologías con las que estoy familiarizado:
