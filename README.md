@@ -8,7 +8,7 @@
   </a>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+<br>
 
 - Cross-platform application developer 💻📱🎮
 
@@ -19,8 +19,7 @@
 - Learning Tensorflow 🦾​🔥
 
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
 
 ## Tecnologías
 Estas son algunas de las tecnologías con las que estoy familiarizado:
