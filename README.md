@@ -12,12 +12,13 @@
 
 - Cross-platform application developer 💻📱🎮
 
-- Learning B1 English 🏴󠁧󠁢󠁥󠁮󠁧󠁿​ and A2 of German 🇩🇪
-
 - Passionate about technology 🤖​❤️‍👨🏻‍💻​
 
-- Learning Tensorflow 🦾​🔥
+- Learning B1 English 🏴󠁧󠁢󠁥󠁮󠁧󠁿​ and A2 of German 🇩🇪
 
+- Learning Tensorflow 🦾​🔥
+  
+- Best academic record of Benirredrà 2022 🏆
 
 <br>
 
