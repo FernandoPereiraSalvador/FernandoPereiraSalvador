@@ -4,7 +4,7 @@
 
 <a target="_blank" align="center">
   <a href="https://www.benirredra.es/noticia/lliurament-xiii-premis-millor-expedient-academic-2022">
-    <img align="right" top="500" height="250" width="325" alt="GIF" src="https://www.benirredra.es/sites/www.benirredra.es/files/Im%C3%A1genes/beques/3.jpg">
+    <img align="right" top="500" height="250" width="325" alt="GIF" src="imagen_premio.jpg">
   </a>
 </a>
 
