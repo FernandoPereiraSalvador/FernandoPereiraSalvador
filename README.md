@@ -30,7 +30,7 @@
 
 <br>
 
-## Tecnologías
+## 🛠 Technologies
 Estas son algunas de las tecnologías con las que estoy familiarizado:
 
 - **Lenguajes de Programación:** Python, Java
