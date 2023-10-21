@@ -22,7 +22,7 @@
 
 - Passionate about technology 🤖​❤️‍👨🏻‍💻​
 
-- Learning B1 English 🏴󠁧󠁢󠁥󠁮󠁧󠁿​ and A2 of German 🇩🇪
+- Learning B1 English :uk:​ and A2 of German :de:
 
 - Learning Tensorflow 🦾​🔥
   
@@ -32,14 +32,12 @@
 
 ## 👨‍💻 Languages
 
-<div align="center">
-  <img src="languages_images/java.png" width="125 height = "100" />
-  <img src="languages_images/python.png" width="100" height = "100"/>
-  <img src="languages_images/html.png" width="100" height = "125" />
-  <img src="languages_images/css.png" width="100" height = "125" />
-  <img src="languages_images/javascript.png" width="100" height = "100" />
-  <img src="languages_images/kotlin.png" width="100" height = "100" />
-</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,java,kotlin" width="650"/>
+  </a>
+</p>
 
 ## 🛠 Technologies
 <div align="center">
