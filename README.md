@@ -31,13 +31,11 @@
 <br>
 
 ## 🛠 Technologies
-Estas son algunas de las tecnologías con las que estoy familiarizado:
-
-- **Lenguajes de Programación:** Python, Java
-- **Base de Datos:** SQL
-- **Desarrollo Web:** HTML
-
-¡Gracias por visitar mi perfil de GitHub! No dudes en contactarme si quieres colaborar en proyectos interesantes o simplemente charlar sobre tecnología y desarrollo.
+<div align="center">
+  <img src="Technologies_images/django.png" width="125" />
+  <img src="Technologies_images/pygame.png" width="200" />
+  <img src="Technologies_images/tkinter.png" width="200" />
+</div>
 
 ## 📈 Statistics
 
