@@ -30,11 +30,22 @@
 
 <br>
 
+## 👨‍💻 Languages
+
+<div align="center">
+  <img src="languages_images/java.png" width="125 height = "100" />
+  <img src="languages_images/python.png" width="100" height = "100"/>
+  <img src="languages_images/html.png" width="100" height = "125" />
+  <img src="languages_images/css.png" width="100" height = "125" />
+  <img src="languages_images/javascript.png" width="100" height = "100" />
+  <img src="languages_images/kotlin.png" width="100" height = "100" />
+</div>
+
 ## 🛠 Technologies
 <div align="center">
-  <img src="Technologies_images/django.png" width="125" />
+  <img src="Technologies_images/django.png" width="125 height = "100" />
   <img src="Technologies_images/pygame.png" width="200" />
-  <img src="Technologies_images/tkinter.png" width="165" />
+  <img src="Technologies_images/tkinter.png" width="200" height = "125" />
 </div>
 
 ## 📈 Statistics
