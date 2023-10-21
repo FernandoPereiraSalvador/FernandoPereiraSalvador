@@ -34,7 +34,7 @@
 <div align="center">
   <img src="Technologies_images/django.png" width="125" />
   <img src="Technologies_images/pygame.png" width="200" />
-  <img src="Technologies_images/tkinter.png" width="200" />
+  <img src="Technologies_images/tkinter.png" width="165" />
 </div>
 
 ## 📈 Statistics
