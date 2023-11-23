@@ -22,7 +22,7 @@
 
 - Passionate about technology 🤖​❤️‍👨🏻‍💻​
 
-- Learning B1 English :uk:​ and A2 of German :de:
+- Learning B1 English 💂​ and A2 of German 🥨
 
 - Learning Tensorflow 🦾​🔥
   
