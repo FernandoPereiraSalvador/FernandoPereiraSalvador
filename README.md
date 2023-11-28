@@ -34,9 +34,13 @@
 
 ## ⭐ Best projects
 
-| ![Image 1](enlace_imagen_1)<br>**Snake** | ![Image 2](enlace_imagen_2)<br>**Online shop** |
+<div align="center">
+
+| [<img src="https://imgur.com/LpBccLr.png" alt="Snake" width="600" height="400">](https://github.com/FernandoPereiraSalvador/Snake.git)<br>**Snake** | [<img src="https://imgur.com/wCiqpsY.png" alt="Online shop" width="600" height="400">](https://github.com/FernandoPereiraSalvador/Online-Shop.git)<br>**Online Shop** |
 |:---:|:---:|
-| ![Image 3](enlace_imagen_3)<br>**Hiragana and katakana Quiz** | ![Image 4](enlace_imagen_4)<br>**Markdown conversor** |
+| [<img src="https://i.imgur.com/SPnVT5E.png" alt="Hiragana and katakana Quiz" width="600" height="400">](https://github.com/FernandoPereiraSalvador/Hiragana-And-Katakana-Quiz.git)<br>**Hiragana and Katakana Quiz** | [<img src="https://imgur.com/ey462gT.png" alt="Markdown conversor" width="600" height="400">](https://github.com/FernandoPereiraSalvador/Markdown-conversor.git)<br>**Markdown Conversor** |
+
+</div>
 
 
 ## 👨‍💻 Languages
