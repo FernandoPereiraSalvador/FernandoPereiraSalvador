@@ -54,7 +54,7 @@
 
 ## 🛠 Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,django,docker,figma,flask,git,gradle,mysql,postgres,vscode" width="650"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,django,docker,figma,flask,git,gradle,mysql,postgres,vscode" width="2500"/>
   <img src="Technologies_images/pygame.png" width="200" />
   <img src="Technologies_images/tkinter.png" width="200" height = "125" />
 </div>
