@@ -36,9 +36,9 @@
 
 <div align="center">
 
-| [<img src="https://imgur.com/LpBccLr.png" alt="Snake" width="600" height="400">](https://github.com/FernandoPereiraSalvador/Snake.git)<br>**Snake** | [<img src="https://imgur.com/wCiqpsY.png" alt="Online shop" width="600" height="400">](https://github.com/FernandoPereiraSalvador/Online-Shop.git)<br>**Online Shop** |
+| [<img src="https://imgur.com/LpBccLr.png" alt="Snake" width="450" height="350">](https://github.com/FernandoPereiraSalvador/Snake.git)<br>**Snake** | [<img src="https://imgur.com/wCiqpsY.png" alt="Online shop" width="450" height="350">](https://github.com/FernandoPereiraSalvador/Online-Shop.git)<br>**Online Shop** |
 |:---:|:---:|
-| [<img src="https://i.imgur.com/SPnVT5E.png" alt="Hiragana and katakana Quiz" width="600" height="400">](https://github.com/FernandoPereiraSalvador/Hiragana-And-Katakana-Quiz.git)<br>**Hiragana and Katakana Quiz** | [<img src="https://imgur.com/ey462gT.png" alt="Markdown conversor" width="600" height="400">](https://github.com/FernandoPereiraSalvador/Markdown-conversor.git)<br>**Markdown Conversor** |
+| [<img src="https://i.imgur.com/SPnVT5E.png" alt="Hiragana and katakana Quiz" width="450" height="350">](https://github.com/FernandoPereiraSalvador/Hiragana-And-Katakana-Quiz.git)<br>**Hiragana and Katakana Quiz** | [<img src="https://imgur.com/ey462gT.png" alt="Markdown conversor" width="450" height="350">](https://github.com/FernandoPereiraSalvador/Markdown-conversor.git)<br>**Markdown Conversor** |
 
 </div>
 
