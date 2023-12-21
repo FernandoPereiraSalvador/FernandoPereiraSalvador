@@ -48,14 +48,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,java,kotlin" width="650"/>
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,java,kotlin,dart" width="650"/>
   </a>
 </p>
 
 ## 🛠 Technologies
 <div align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,django,docker,figma,flask,git,gradle,mysql,postgres" width="2000"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="100"/>
+  <img src="https://skillicons.dev/icons?i=vscode,flutter,nodejs" width="325"/>
   <img src="Technologies_images/pygame.png" width="200" />
   <img src="Technologies_images/tkinter.png" width="200" height = "125" />
 </div>
