@@ -27,6 +27,8 @@
 - Learning Tensorflow 🦾​🔥
   
 - Best academic record of Benirredrà 2022 🏆
+
+- Honorable Mention for the Final Project in DAM 🏅
   
 - I do karate 🥋
 
