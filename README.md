@@ -22,9 +22,9 @@
 
 - Passionate about technology 🤖​❤️‍👨🏻‍💻​
 
-- Learning B1 English 💂​ and A2 of German 🥨
+- B2 English 💂​ and A2 of German 🥨
 
-- Learning Tensorflow 🦾​🔥
+- Learning Data Science and Artificial Intelligence 🦾​🔥
   
 - Best academic record of Benirredrà 2022 🏆
 
