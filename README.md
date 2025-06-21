@@ -1,10 +1,6 @@
 ![Error al cargar el banner](banner.gif)
 
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=FernandoPereiraSalvador&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
-  
-</div>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=FernandoPereiraSalvador&label=Profile+views&color=ff6b00&style=flat" alt="Profile views badge"/></p>
 
 
 
